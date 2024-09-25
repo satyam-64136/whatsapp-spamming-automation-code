@@ -23,7 +23,7 @@ If you want to use the spammer without installing Python, you can download the e
    Open your command line interface and run:
    ```bash
    pip install pyautogui
-##Usage
+## Usage
 1. **Clone or Download the Repository:** Download the script file (whatsapp_spammer.py) to your local machine.
 
 2. **Run the Script:** Open your command line interface and navigate to the directory where the script is located. Then execute:
