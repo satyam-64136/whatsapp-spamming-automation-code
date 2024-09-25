@@ -17,8 +17,6 @@ If you want to use the spammer without installing Python, you can download the e
 
 ## Installation (for Script Users)
 
-## Installation
-
 1. **Install Python**: Ensure Python is installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
 
 2. **Install the required library**:
