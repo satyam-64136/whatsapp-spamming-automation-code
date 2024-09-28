@@ -2,6 +2,19 @@ from time import sleep
 import pyautogui
 import webbrowser
 
+logo = """
+        ███████╗ █████╗ ████████╗██╗   ██╗ █████╗ ███╗   ███╗
+        ██╔════╝██╔══██╗╚══██╔══╝╚██╗ ██╔╝██╔══██╗████╗ ████║
+        ███████╗███████║   ██║    ╚████╔╝ ███████║██╔████╔██║
+        ╚════██║██╔══██║   ██║     ╚██╔╝  ██╔══██║██║╚██╔╝██║
+        ███████║██║  ██║   ██║      ██║   ██║  ██║██║ ╚═╝ ██║
+   by   ╚══════╝╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝
+   \n
+   Note: Please make sure you are already logged into WhatsApp.
+   \n
+"""
+print(logo)
+
 # Get user input for phone number and spam details
 PhoneNumber = int(input("Enter PhoneNumber with country code: "))
 sleep(0.1)
