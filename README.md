@@ -13,7 +13,7 @@ This is a simple Python script that automates sending spam messages via WhatsApp
 
 ### Direct Download
 If you want to use the spammer without installing Python, you can download the executable file directly from the following link:
-- [Download Spam Tool](https://www.mediafire.com/file/xbzp97xvhjuxtz1/spammer.exe/file)
+- [Download Spam Tool](https://www.mediafire.com/file/glkffcayzvrvtnv/spammer.exe/file)
 
 ## Installation (for Script Users)
 
